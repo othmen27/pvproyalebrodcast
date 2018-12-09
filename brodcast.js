@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 
 
-client.login('NTEyNzQ5NTQ4MjU5NzcwMzcw.Ds-CIg.oJouMLa0-O3EiUYz545FVGogWJk');
+client.login('NTIxMjg0NTUzODM1NDEzNTM0.Du6OGw.hwsPYNqpfE6rImXE-Gb5vSbzxKQ');
 
 
 
@@ -44,7 +44,7 @@ client.on('message', message => {
 	
 	
 	
-client.login('NTEyNzQ5NTQ4MjU5NzcwMzcw.Ds-CIg.oJouMLa0-O3EiUYz545FVGogWJk');
+client.login('NTIxMjg0NTUzODM1NDEzNTM0.Du6OGw.hwsPYNqpfE6rImXE-Gb5vSbzxKQ');
 
 
 
@@ -62,7 +62,7 @@ client.on('ready', () => {
    client.user.setStatus("dnd")
 });
 
-client.login('NTEyNzQ5NTQ4MjU5NzcwMzcw.Ds-CIg.oJouMLa0-O3EiUYz545FVGogWJk');
+client.login('NTIxMjg0NTUzODM1NDEzNTM0.Du6OGw.hwsPYNqpfE6rImXE-Gb5vSbzxKQ');
 
 
 client.on('message', message => {
@@ -76,4 +76,4 @@ client.on('message', message => {
     }
     });
 
-client.login('NTEyNzQ5NTQ4MjU5NzcwMzcw.Ds-CIg.oJouMLa0-O3EiUYz545FVGogWJk');
+client.login('NTIxMjg0NTUzODM1NDEzNTM0.Du6OGw.hwsPYNqpfE6rImXE-Gb5vSbzxKQ');
